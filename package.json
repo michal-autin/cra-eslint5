@@ -27,5 +27,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^12.*",
+    "eslint-plugin-import": "^2.13.*",
+    "eslint-plugin-node": "^7.*",
+    "eslint-plugin-promise": "^4.*",
+    "eslint-plugin-standard": "^4.*"
+  },
+  "peerDependencies": {
+    "eslint": "^5.*"
   }
 }
